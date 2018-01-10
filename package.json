@@ -1,0 +1,14 @@
+{
+  "name"         : "todolist",
+  "version"      : "1.0.0",
+  "description"  : "TodoList App.",
+  "main"         : "server.js",
+  "author"       : "Laora Gilles-Reynet",
+  "dependencies" : {
+    "express"    : "*",
+    "mongoose"   : "*",
+    "morgan"     : "*",
+    "body-parser": "*",
+    "method-override": "*"
+    }
+}
